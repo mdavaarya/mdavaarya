@@ -1,44 +1,67 @@
-# Hi there, I'm <Nama Kamu>! 👋
+<h1 align="center">
+  Hi, I'm Dava 
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/hand.svg" width="28"/>
+</h1>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House" alt="Quote" />
-</p>
-
-### 💫 About Me
-- 🔭 I’m currently working on **[Nama Proyek Utama]**
-- 🌱 I’m currently learning **Next.js, TypeScript, and Cloud Computing**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Python, or UI Design**
-- ⚡ Fun fact: **Saya lebih suka debugging di malam hari karena sunyi.**
-
----
-
-### 🛠 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <b>
+    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/code.svg" width="16"/> 
+    Fullstack Developer in Progress
+  </b>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=<USERNAME_KAMU>&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<USERNAME_KAMU>&layout=compact&theme=radical" />
+## 🚀 About Me
+
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/brain.svg" width="16"/>  
+Currently focusing on strengthening programming fundamentals while building real projects.
+
+- <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/seedling.svg" width="14"/> Learning: **JavaScript, React, Node.js**
+- <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/target.svg" width="14"/> Goal: Reach solid **Junior Developer** level
+- <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/people-group.svg" width="14"/> Open for: collaboration & project team
+
+---
+
+## 🛠 Tech Stack
+
+### Core
+<p>
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/js.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/html5.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/css3-alt.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/database.svg" width="40"/>
+</p>
+
+### Additional
+<p>
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/laravel.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/git-alt.svg" width="40"/>
 </p>
 
 ---
 
-### 📬 Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/<USERNAME_LINKEDIN>" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/<USERNAME_TWITTER>" target="blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+## 📦 Highlight Project
+
+### 🏪 Management Kecap  
+UMKM product management app  
+
+Tech: Dart, Flutter, Supabase  
+
+- Product management workflow  
+- Backend integration  
+- Mobile UI implementation  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=<USERNAME_KAMU>&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=bellion&show_icons=true&theme=transparent" />
+</p>
+
+---
+
+<p align="center">
+  <i>Build consistently. Understand deeply. Improve deliberately.</i>
 </p>
