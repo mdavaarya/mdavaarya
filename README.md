@@ -33,14 +33,25 @@ I am open to collaboration, internship opportunities, and project-based teamwork
 ## Highlight Project
 
 ### Management Kecap  
-UMKM partner product management application  
+Mobile-based product management system for UMKM partners.
 
-Tech: Dart • Flutter • Supabase  
+<p align="center">
+  <a href="https://github.com/mdavaarya/Prak-Mobile">
+    <img src="assets/management-kecap-preview.png" width="700"/>
+  </a>
+</p>
 
-Contribution:
-- Product data management system  
-- Backend service integration  
-- Mobile UI workflow implementation  
+**Tech Stack**  
+Dart • Flutter • Supabase  
+
+**Key Contributions**
+- Designed and implemented product data management system  
+- Integrated backend services with Supabase  
+- Built structured mobile UI workflow  
+- Applied CRUD logic and real-time data handling  
+
+🔗 View Full Repository →  
+https://github.com/mdavaarya/Prak-Mobile Mobile UI workflow implementation  
 
 <p align="center">
   <b>Build consistently. Grow deliberately.</b>
