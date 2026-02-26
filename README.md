@@ -47,6 +47,6 @@ Dart • Flutter • Supabase
 🔗 View Full Repository →  
 https://github.com/mdavaarya/Prak-Mobile Mobile UI workflow implementation  
 
-<p align="left">
+<p align="center">
   <b>Build consistently. Grow deliberately.</b>
 </p>
