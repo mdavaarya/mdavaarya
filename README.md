@@ -37,7 +37,7 @@ Mobile-based product management system for UMKM partners.
 
 <p align="center">
   <a href="https://github.com/mdavaarya/Prak-Mobile">
-    <img src="assets/management-kecap-preview.png" width="700"/>
+    <img src="assets/management-kecap-preview.jpeg" width="700"/>
   </a>
 </p>
 
