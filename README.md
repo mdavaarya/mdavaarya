@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Dava</h1>
 
 <p align="center">
-  <i>Fullstack Developer in Progress • Building while strengthening fundamentals</i>
+  <i>Fullstack Web Developer • Building while strengthening fundamentals</i>
 </p>
 
 <p align="center">
